@@ -38,11 +38,11 @@ export default function HeroSection() {
               {hero.badge}
             </span>
 
-            <h1 className="text-4xl sm:text-5xl lg:text-[3.25rem] font-bold text-gray-900 leading-tight mb-6 max-w-xl mx-auto lg:mx-0">
+            <h1 className="text-4xl sm:text-5xl lg:text-[3.25rem] font-bold text-gray-900 leading-tight mb-6 max-w-2xl mx-auto lg:mx-0">
               {hero.title}
             </h1>
 
-            <p className="text-lg text-gray-500 leading-8 max-w-lg mx-auto lg:mx-0 mb-10">
+            <p className="text-lg text-gray-500 leading-8 max-w-2xl mx-auto lg:mx-0 mb-10">
               {hero.subtitle}
             </p>
 
