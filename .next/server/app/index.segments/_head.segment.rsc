@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/1503v0xujt0s7.js","/_next/static/chunks/15qvp534nahp9.js"],"ViewportBoundary"]
+3:I[97367,["/_next/static/chunks/1503v0xujt0s7.js","/_next/static/chunks/15qvp534nahp9.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[27201,["/_next/static/chunks/1503v0xujt0s7.js","/_next/static/chunks/15qvp534nahp9.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Hermony | هرموني"}],["$","meta","1",{"name":"description","content":"Hermony — Your trusted partner in pharmaceuticals, medical supplies, and cosmetics in Yemen. هرموني — شريكك الموثوق في الأدوية والمستلزمات الطبية ومستحضرات التجميل في اليمن."}],["$","link","2",{"rel":"icon","href":"/icon.png?icon.03gugy3lg~u2e.png","sizes":"50x50","type":"image/png"}],["$","$L5","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"WBFYm-bqHqF--_Qy8GDOJ"}
